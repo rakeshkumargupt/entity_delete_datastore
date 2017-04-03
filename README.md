@@ -5,6 +5,13 @@ go get -u github.com/rakeshkumargupt/entity_delete_datastore
 
 # Example
 
+Sample Payload: 
+  {
+	"namespace" : "NS1",
+	"kind" : "Knd1",
+	"names" : ["abc","cde", "fgh"]
+ }
+
 # Dependencies
 1. Install Go
 2. Google Datastore
