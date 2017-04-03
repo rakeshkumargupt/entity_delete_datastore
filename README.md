@@ -11,6 +11,7 @@ go get -u github.com/rakeshkumargupt/entity_delete_datastore
 
 # References
 For more information visit these Google Developers links:
+
 https://cloud.google.com/appengine/docs/standard/go/datastore/creating-entities
 
 https://cloud.google.com/appengine/docs/standard/go/datastore/reference#Delete
